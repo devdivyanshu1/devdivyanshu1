@@ -1,4 +1,4 @@
-# Hi 👋, I'm Divyanshu Dev 😎
+# Hi 👋, I'm Divyanshu Dev 
 ### Full-Stack Web Developer | Competitive Programmer | Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyanshu-dev-4b4a002a7/)
